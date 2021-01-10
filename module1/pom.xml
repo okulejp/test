@@ -30,9 +30,9 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>github_demo</artifactId>
     <version>0.0.2-SNAPSHOT</version>
-    <name>demo</name>
+    <name>github_demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
